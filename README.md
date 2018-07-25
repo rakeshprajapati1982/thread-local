@@ -1,2 +1,2 @@
-# thread-local
-Java Thread Local explained in easiest practical way
+#  Java Thread Local Storage explained in easiest practical way
+View my blog [https://readtorakesh.blogspot.com/2018/07/java-thread-local-storage-explained-in.html](https://readtorakesh.blogspot.com/2018/07/java-thread-local-storage-explained-in.html) for explanation and usage of code of this repository
